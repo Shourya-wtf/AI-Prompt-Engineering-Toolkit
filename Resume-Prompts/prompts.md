@@ -19,3 +19,25 @@ Create a professional resume summary for a student interested in AI, technology,
 ## 3. Skills Section Generator
 
 Suggest the most relevant technical and soft skills for a student applying for internships.
+## 4. Internship Resume Builder
+
+Act as a professional resume writer.
+
+Create a one-page ATS-friendly resume for a student applying for internships.
+
+Include:
+- Summary
+- Education
+- Skills
+- Projects
+- Certifications
+
+## 5. Resume Improvement Suggestions
+
+Review the following resume and provide:
+
+- Strengths
+- Weaknesses
+- Missing keywords
+- ATS improvement suggestions
+- Overall score out of 10
