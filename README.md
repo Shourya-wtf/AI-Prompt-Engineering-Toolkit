@@ -73,3 +73,13 @@ Shourya Jain
 
 MIT License
 
+## Version History
+
+### v1.0 (June 2026)
+
+- Created public GitHub repository
+- Added LinkedIn Prompts
+- Added Resume Prompts
+- Added Career Prompts
+- Added 15+ AI prompts
+- Published project documentation
