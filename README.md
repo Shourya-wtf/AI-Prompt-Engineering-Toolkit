@@ -14,6 +14,39 @@ This repository contains categorized AI prompts for various use cases including 
 - Study Prompts
 - Content Writing Prompts
 - Business Prompts
+## Repository Structure
+
+```text
+AI-Prompt-Engineering-Toolkit
+│
+├── README.md
+├── LinkedIn-Prompts
+├── Resume-Prompts
+└── Career-Prompts
+```
+
+## Features
+
+- Ready-to-use AI prompts
+- Career development resources
+- Resume optimization prompts
+- LinkedIn branding prompts
+- Beginner-friendly structure
+- Open-source and continuously updated
+
+## Current Statistics
+
+- Categories: 3
+- Total Prompts: 15+
+- Status: Active Development
+
+## How to Use
+
+1. Choose a category.
+2. Copy a prompt.
+3. Paste it into ChatGPT or another AI tool.
+4. Customize the prompt for your needs.
+5. Generate high-quality results.
 
 ## Purpose
 
