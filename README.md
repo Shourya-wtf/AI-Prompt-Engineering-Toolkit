@@ -25,18 +25,16 @@ The collection focuses on:
 - Resume Prompts
 - Career Prompts
 - Study Prompts
-- Content Writing Prompts
-- Business Prompts
-## Repository Structure
+  
+## Repository 
 
-```text
 AI-Prompt-Engineering-Toolkit
 │
 ├── README.md
-├── LinkedIn-Prompts
-├── Resume-Prompts
-└── Career-Prompts
-```
+├── LinkedIn-Prompts/
+├── Resume-Prompts/
+├── Career-Prompts/
+└── Study-Prompts/
 
 ## Features
 
@@ -49,8 +47,8 @@ AI-Prompt-Engineering-Toolkit
 
 ## Current Statistics
 
-- Categories: 3
-- Total Prompts: 15+
+- Categories: 4
+- Total Prompts: 20
 - Status: Active Development
 
 ## How to Use
@@ -81,5 +79,6 @@ MIT License
 - Added LinkedIn Prompts
 - Added Resume Prompts
 - Added Career Prompts
-- Added 15+ AI prompts
+- Added 20+ AI prompts
 - Published project documentation
+- Updated README for Study prompts
