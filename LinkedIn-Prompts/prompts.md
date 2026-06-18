@@ -21,3 +21,18 @@ Create 10 LinkedIn headlines for a student interested in AI, technology, and ent
 ## 3. LinkedIn About Section Writer
 
 Write a professional LinkedIn About section highlighting skills, achievements, and career goals.
+## 4. LinkedIn Achievement Post
+
+Act as a LinkedIn content writer.
+
+Create a professional LinkedIn post announcing an achievement, certification, internship, or project completion.
+
+Include:
+- An engaging opening
+- Key learnings
+- Gratitude section
+- Relevant hashtags
+
+## 5. LinkedIn Networking Message
+
+Write a short and professional LinkedIn connection request message for a student seeking guidance from industry professionals.
