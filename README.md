@@ -6,6 +6,19 @@
 
 This repository contains categorized AI prompts for various use cases including career development, resume building, content creation, business planning, and learning.
 
+## Why This Project?
+
+Prompt engineering is an important skill in the age of Generative AI.
+
+This repository provides structured and reusable prompts that help students, professionals, and creators get better results from AI tools such as ChatGPT.
+
+The collection focuses on:
+- Career Growth
+- Resume Building
+- LinkedIn Branding
+- Productivity
+- Professional Development
+
 ## Categories
 
 - LinkedIn Prompts
