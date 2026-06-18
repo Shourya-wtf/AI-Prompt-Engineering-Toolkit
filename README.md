@@ -79,6 +79,7 @@ MIT License
 - Added LinkedIn Prompts
 - Added Resume Prompts
 - Added Career Prompts
+- Added Study Prompts
 - Added 20+ AI prompts
 - Published project documentation
 - Updated README for Study prompts
